@@ -1,5 +1,5 @@
 # Recreating the past (MAS.S62)
-This repository contains all the recreations of an artwork by each different artist seen in class.
+This repository contains all the recreations of an artwork by each artist seen in class.
 
 ## Week 1: Vera Molnár
 Carrés en deux positions 2, 2013. (Original VS Recreation)
