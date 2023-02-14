@@ -2,7 +2,7 @@ function setup() {
   createCanvas(800, 800);
 // Sets the mode for drawing rectangles
   rectMode(CENTER);
-  strokeWeight(2);
+  strokeWeight(3);
 }
 
 function draw() {
