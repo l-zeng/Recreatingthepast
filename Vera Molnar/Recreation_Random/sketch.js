@@ -2,7 +2,7 @@ function setup() {
   createCanvas(800, 800);
 // Sets the mode for drawing rectangles
   rectMode(CENTER);
-  strokeWeight(2);
+  strokeWeight(3);
 }
 
 function draw() {
@@ -17,7 +17,7 @@ function draw() {
       for (let k = 0; k < 1; k += 1) {
         const width = map(k, 0, 23, 23, 144);
 //Radomize the # of squares that rotate by manipulate the mouse
-        if (noise(i, j) < random()){
+        if (noise(i*0.1, j*0.5) < random()){
           push();
           translate(x, y);
           rotate(radians(45));
