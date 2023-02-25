@@ -7,4 +7,4 @@ Carrés en deux positions 2, 2013. (Original VS Recreation)
 
 ## Week 2: John Whitney
 Catalog (Original VS Recreation)
-![Side_by_side](https://user-images.githubusercontent.com/125086973/221291698-2af1dc78-5744-42f5-973c-a88611688317.png)![Recreation](https://user-images.githubusercontent.com/125086973/221291715-5d668028-29ec-400e-9f84-c76214291332.gif)
+![Side_by_side](https://user-images.githubusercontent.com/125086973/221291698-2af1dc78-5744-42f5-973c-a88611688317.png)![Recreation](https://user-images.githubusercontent.com/125086973/221291715-5d668028-29ec-400e-9f84-c76214291332.gif)![Experiment](https://user-images.githubusercontent.com/125086973/221373299-cb42bb4f-98ba-41de-9964-5b88f8a14e47.gif)
