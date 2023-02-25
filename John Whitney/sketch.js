@@ -10,8 +10,8 @@ function draw() {
   fill(43, 54, 153, 255);
   beginShape();
   vertex(0,500);
-  for (let i = 0; i < 800; i += 1) {
-    const y1 = 220 + 135 * cos(time/1.65 + i * 0.003);
+  for (let i = 0; i < 667; i += 1) {
+    const y1 = 220 + 135 * cos(time * 0.606 + i * 0.003);
     vertex(i, y1);
   }
   vertex(667,500);
@@ -20,8 +20,8 @@ function draw() {
   fill(58, 123, 249, 255);
   beginShape();
   vertex(0,500);
-  for (let i = 0; i < 800; i += 1) {
-    const y1 = 190 + 30 * cos(time/1.7 + i * 0.005);
+  for (let i = 0; i < 667; i += 1) {
+    const y1 = 190 + 30 * cos(time * 0.588 + i * 0.005);
     vertex(i, y1);
   }
   vertex(667,500);
@@ -30,8 +30,8 @@ function draw() {
   fill(112,124,242,204);
   beginShape();
   vertex(0,500);
-  for (let i = 0; i < 800; i += 1) {
-    const y1 = 93 + 87 * sin(time/1.5 + i * 0.003);
+  for (let i = 0; i < 667; i += 1) {
+    const y1 = 93 + 87 * sin(time * 0.667 + i * 0.003);
     vertex(i, y1);
   }
   vertex(667,500);
@@ -40,8 +40,8 @@ function draw() {
   fill(185, 190, 248, 127.5);
   beginShape();
   vertex(0,500);
-  for (let i = 0; i < 800; i += 1) {
-    const y1 = 323 + 87 * sin(time/1.5 + i * 0.003);
+  for (let i = 0; i < 667; i += 1) {
+    const y1 = 323 + 87 * sin(time * 0.667 + i * 0.003);
     vertex(i, y1);
   }
   vertex(667,500);
@@ -50,8 +50,8 @@ function draw() {
   fill(165, 177, 252, 127.5);
   beginShape();
   vertex(0,500);
-  for (let i = 0; i < 800; i += 1) {
-    const y1 = 320 + 28 * cos(time/1.5 + i * 0.005);
+  for (let i = 0; i < 667; i += 1) {
+    const y1 = 320 + 28 * cos(time * 0.667 + i * 0.005);
     vertex(i, y1);
   }
   vertex(667,500);
@@ -62,8 +62,8 @@ function draw() {
   rotate(PI/-0.246);
   beginShape();
   vertex(-800,600);
-  for (let i = 0; i < 800; i += 1) {
-    const y1 =520 + 35 * cos(time/0.6 + i * 0.0075);
+  for (let i = 0; i < 667; i += 1) {
+    const y1 =520 + 35 * cos(time * 1.667 + i * 0.0075);
     vertex(i, y1);
   }
   vertex(667,800);
@@ -76,15 +76,14 @@ function draw() {
   rotate(PI/-0.2485);
   beginShape();
   vertex(-100,600);
-  for (let i = 0; i < 800; i += 1) {
-    const y1 =535 + 20 * sin(time/0.6 + i * 0.0055);
+  for (let i = 0; i < 667; i += 1) {
+    const y1 =535 + 20 * sin(time * 1.667 + i * 0.0055);
     vertex(i, y1);
   }
   vertex(667,800);
   endShape(true);
   pop();
 }
-
 
 
 
