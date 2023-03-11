@@ -13,3 +13,7 @@ Catalog (Original VS Recreation)
 The Hidden Curriculum Book Cover (Original VS Recreation)
 ![Side_by_side](https://user-images.githubusercontent.com/125086973/223281716-2b7c8f2f-9ad9-476c-9711-c27c06747742.jpg)
 ![Recreation](https://user-images.githubusercontent.com/125086973/223281724-5603c75f-0960-4fb2-a532-ce7f8fcc616d.gif)
+## Week 4: Bridget Riley
+Opening (Original VS Recreation)
+![Side_by_side](https://user-images.githubusercontent.com/125086973/224515805-126a22f8-b21f-4405-a92f-a9db15620ddf.jpg)
+![Interaction](https://user-images.githubusercontent.com/125086973/224516089-f739c599-6f11-4bcc-814c-51ba7225f1ff.gif)
