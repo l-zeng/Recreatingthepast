@@ -17,3 +17,10 @@ The Hidden Curriculum Book Cover (Original VS Recreation)
 Opening (Original VS Recreation)
 ![Side_by_side](https://user-images.githubusercontent.com/125086973/224515805-126a22f8-b21f-4405-a92f-a9db15620ddf.jpg)
 ![Interaction](https://user-images.githubusercontent.com/125086973/224516089-f739c599-6f11-4bcc-814c-51ba7225f1ff.gif)
+## Week 5: Ken Knowlton
+Barack Obama, portrait in his 2008 acceptance speech (Original VS Recreation)
+![SidebySide](https://user-images.githubusercontent.com/125086973/229201284-8a8bfc66-1a9d-4502-b6a3-8384343527bc.jpg)
+Process & Experiment:
+![Obama sidebyside](https://user-images.githubusercontent.com/125086973/229201317-7b3d25ae-7169-4599-b782-f59537c75058.jpg)
+Samuel FB Morse, portrait in Morse code symbols
+![Morse sidebyside](https://user-images.githubusercontent.com/125086973/229201397-be26216f-91ee-4210-9bfc-88041c7b95c7.jpg)
