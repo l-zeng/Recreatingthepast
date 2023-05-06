@@ -24,6 +24,6 @@ Process & Experiment:
 ![Obama sidebyside](https://user-images.githubusercontent.com/125086973/229201317-7b3d25ae-7169-4599-b782-f59537c75058.jpg)
 Samuel FB Morse, portrait in Morse code symbols
 ![Morse sidebyside](https://user-images.githubusercontent.com/125086973/229201397-be26216f-91ee-4210-9bfc-88041c7b95c7.jpg)
-## Week 5: Jason Salavon
+## Week 6: Jason Salavon
 Coupled by Jess T. Dugan
 ![Couple](https://user-images.githubusercontent.com/125086973/229202575-055ef1d2-9368-42da-8ccf-f5c456206915.png)
