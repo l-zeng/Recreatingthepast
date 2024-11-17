@@ -1,5 +1,7 @@
 # Recreating the past (MAS.S62)
-This repository contains all the recreations of an artwork inspired by each artist seen in class.
+For the class, I studied computational art from the past decades and recreate these works with contemporary techniques to understand and gain aesthetic appreciation.
+
+This repository contains all the recreations of an artwork inspired by each artist seen in class. All projects were created in P5.JS.
 
 ## Week 1: Vera Molnár
 Carrés en deux positions 2, 2013. (Original VS Recreation)
